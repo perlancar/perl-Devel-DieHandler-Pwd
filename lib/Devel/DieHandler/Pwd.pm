@@ -45,3 +45,8 @@ directory to STDERR, then calls the previous handler (or die).
 
 Unimporting (via C<no Devel::DieHandler::Pwd>) after importing restores the
 previous handler.
+
+
+=head1 SEE ALSO
+
+Other C<Devel::DieHandler::*> modules
